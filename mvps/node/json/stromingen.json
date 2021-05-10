@@ -1,0 +1,29 @@
+[
+    {
+     "id": 1,
+     "name": "impressionisme",
+     "example":"../node/json/pictures/impressionisme.jpg"
+     
+    },
+    {"id":2 ,
+      "name": "expressionisme",
+      "example":"../node/json/pictures/expressionisme.jpg"
+    },
+    {"id": 3,
+      "name": "surrealisme",
+      "example":"../node/json/pictures/surrealisme.jpg"
+    },
+    {"id": 4,
+      "name": "futurisme",
+      "example":"../node/json/pictures/futurisme.jpg"
+    },
+    {"id": 5,
+      "name": "barok",
+      "example":"../node/json/pictures/barok.png"
+    },
+    {"id": 6,
+      "name": "primitivisme",
+      "example":"../node/json/pictures/primitivisme.jpg"
+    }
+    
+ ]

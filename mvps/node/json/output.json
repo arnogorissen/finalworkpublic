@@ -1,0 +1,8 @@
+{   
+    "impressionisme": "../node/json/generated/generatedimpressionisme.jpg",
+    "expressionisme":"../node/json/generated/generatedexpressionisme.jpg",
+    "surrealisme": "../node/json/generated/generatedsurrealisme.jpg",
+    "futurisme": "../node/json/generated/generatedfuturisme.jpg",
+    "barok": "../node/json/generated/generatedbarok.jpg",
+    "primitivisme": "../node/json/generated/generatedprimitivisme.jpg"
+  }

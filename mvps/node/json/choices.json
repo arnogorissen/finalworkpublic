@@ -1,0 +1,10 @@
+[
+  {
+    "name": "impressionisme",
+    "example": "../node/json/generated/generatedimpressionisme.jpg"
+  },
+  {
+    "name": "expressionisme",
+    "example": "../node/json/generated/generatedexpressionisme.jpg"
+  }
+]
